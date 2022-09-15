@@ -12,7 +12,7 @@ public class Questao5LetsCodeCodeOne {
         String frutasPromocao = "";
 
         System.out.println("A lista de frutas em promoção é: " + Arrays.toString(listaFrutas));
-        System.out.println("Qual a lista de frutas  para hoje?");
+        System.out.println("Qual a lista de frutas para hoje?");
 
         for (int i = 0; i < listaCompras.length; i++ ) {
             listaCompras[i] = scan.nextLine();
